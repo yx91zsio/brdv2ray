@@ -1,5 +1,5 @@
 {
-    "name": "v2ray-heroku",
+    "name": "vless",
     "description": "deploy v2ray to heroku",
     "keywords": ["v2ray"],
     "env": {
